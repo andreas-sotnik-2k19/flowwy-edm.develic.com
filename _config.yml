@@ -8,8 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            Flowwy EDM
-tagline:          'Electronic Dark Music for Ecstasis and Flow.'
-description:      'Electronic Dark Music for Ecstasis and Flow.'
+tagline:          'Electronic Dark Music'
+description:      'Electronic Dark Music'
 url:              http://flowwy-edm.develic.com
 baseurl:          /
 
