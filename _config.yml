@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      rouge
+# markdown:         redcarpet
+# highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -24,3 +24,12 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - tmp/
